@@ -1,0 +1,4 @@
+GCP Data Engineer — Acunor Inc
+https://www.adzuna.com/details/5877814057?utm_medium=api&utm_source=b7c6523e
+
+With over 10 years of data engineering experience at industry leaders such as Visa, American Express, and Wells Fargo, I bring deep, hands-on expertise in the exact GCP ecosystem Acunor is looking for — including BigQuery, Dataproc, and Cloud Composer. My extensive work orchestrating complex data pipelines using Airflow, combined with a strong command of Spark, PySpark, and the broader Hadoop ecosystem (Hive, HDFS, Sqoop), positions me to architect and optimize the scalable, modular solutions your team demands. I am confident in leading technical conversations and translating complex data challenges into performant, production-ready pipelines — skills I have refined across large-scale financial and enterprise environments.

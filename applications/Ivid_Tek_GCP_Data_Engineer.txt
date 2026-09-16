@@ -1,0 +1,4 @@
+GCP Data Engineer — Ivid Tek
+https://www.adzuna.com/details/5874127369?utm_medium=api&utm_source=b7c6523e
+
+With over 10 years of experience building enterprise-scale data solutions at industry leaders like Wells Fargo, Visa, American Express, and General Electric, I am confident I bring precisely the technical depth Ivid Tek is seeking in a GCP Data Engineer. My hands-on expertise with GCP's core data stack — including BigQuery, Dataproc, and Cloud Composer — has equipped me to architect and optimize the kind of robust batch and real-time data pipelines your role demands. I have consistently leveraged tools like Apache Spark, PySpark, Airflow, and Hive to deliver high-performance, enterprise-grade data platforms across highly regulated and large-scale environments. I am excited by the opportunity to bring this proven cloud data engineering experience to your team in Phoenix.

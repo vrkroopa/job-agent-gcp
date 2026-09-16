@@ -1,0 +1,4 @@
+GCP Data Engineer — Insight Global
+https://www.adzuna.com/land/ad/5880906454?se=rHKvzQ-x8RGVjZXZEg8iqQ&utm_medium=api&utm_source=b7c6523e&v=8753564E94840D72710E7D6B7D4BD46A7D0D1A66
+
+With over 10 years of data engineering experience at industry leaders like Wells Fargo, Visa, and American Express, I have built and optimized scalable cloud data pipelines using the exact GCP stack your team relies on — BigQuery, Dataproc, Cloud Composer, and Airflow. My hands-on expertise designing ETL/ELT workflows with PySpark, Python, and SQL maps directly to the core responsibilities of this Senior GCP Data Engineer role at Insight Global. I have consistently delivered robust data quality, validation, and governance controls across high-stakes financial environments where accuracy and reliability are non-negotiable.

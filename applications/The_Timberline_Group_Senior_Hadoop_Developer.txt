@@ -1,0 +1,4 @@
+Senior Hadoop Developer — The Timberline Group
+https://www.adzuna.com/land/ad/5805827390?se=ihAmzA-x8RGZUsUQAwpusQ&utm_medium=api&utm_source=b7c6523e&v=F01ABC5F8E6E666D64C7426FDB15243756C1B19A
+
+With over 10 years of experience engineering large-scale data solutions at industry leaders such as Visa, American Express, and Wells Fargo, I am excited to bring my deep expertise in Hadoop, Spark, and Python to the Senior Hadoop Developer role at The Timberline Group. My hands-on experience building and optimizing batch and stream processing pipelines using Hadoop MapReduce, PySpark, Hive, and Sqoop aligns directly with the core technical demands of this position. I have consistently leveraged these frameworks to drive complex data acquisition, preparation, and analytics workflows across enterprise-scale environments, including work with HDFS and Dataproc on distributed compute clusters.

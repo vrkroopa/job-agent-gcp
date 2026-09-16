@@ -1,0 +1,4 @@
+Junior-Mid Level GCP Data Engineer — TEKsystems
+https://www.adzuna.com/land/ad/5857828316?se=rHKvzQ-x8RGVjZXZEg8iqQ&utm_medium=api&utm_source=b7c6523e&v=9A096BE7BB8FB22EF132ED4A0134FB7474984A20
+
+With over 10 years of data engineering experience at industry leaders such as Visa, American Express, and Wells Fargo, I bring a deep and proven command of the GCP ecosystem — including BigQuery, Dataproc, and Cloud Composer — that far exceeds the foundational requirements of this role. My hands-on expertise with Hadoop, HDFS, Hive, and Spark, combined with extensive Python and SQL proficiency, aligns directly with TEKsystems' need for a skilled GCP Data Engineer capable of navigating both on-premises and cloud environments. I have leveraged these technologies to build and optimize large-scale data pipelines and data lake architectures across highly regulated financial institutions, giving me a strong understanding of enterprise-grade data engineering demands.
